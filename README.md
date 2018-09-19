@@ -1,4 +1,7 @@
-![PirateParty](/static/img/logo/Logo_Large.png)
+![PirateParty](Logo_Large.png)
+
+# IMPORTANT
+Please follow this link to view the actual Github repository where this project is hosted. Thanks for viewing our project!
 
 
 # MERN Pirate Party
