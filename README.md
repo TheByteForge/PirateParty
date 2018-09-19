@@ -1,7 +1,7 @@
 ![PirateParty](Logo_Large.png)
 
-# IMPORTANT
-Please follow this link to view the actual Github repository where this project is hosted. Thanks for viewing our project!
+# Impportant Information, Read Me!
+Please follow this link to view the actual Github repository where this project's code is hosted. Thanks for viewing our project!
 * [Pirate Party Repository](https://github.com/L-Figgins13/ThePirateParty)
 
 # MERN Pirate Party
