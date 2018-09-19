@@ -2,7 +2,7 @@
 
 # IMPORTANT
 Please follow this link to view the actual Github repository where this project is hosted. Thanks for viewing our project!
-
+* [Pirate Party Repository](https://github.com/L-Figgins13/ThePirateParty)
 
 # MERN Pirate Party
 [![HitCount](http://hits.dwyl.com/{L-Figgins13}/{Genesis}.svg)](http://hits.dwyl.com/{L-Figgins13}/{Genesis})
